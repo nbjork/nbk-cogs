@@ -12,3 +12,6 @@ async def sgif(self):
     screencap = simpsons.get_random_screencap()
     gif = screencap.get_gif_url()
     self.bot.say(gif)
+    
+def setup(bot):
+    bot.add_cog(Simpsons(bot))
