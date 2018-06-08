@@ -5,6 +5,6 @@
     "SHORT" : "Post Simpsons GIFs",
     "DESCRIPTION" : "Read the short desciption, fool",
     "TAGS" : ["Simpsons", "gif"],
-    "REQUIREMENTS" : ["discord", "compuglobal"],
+    "REQUIREMENTS" : ["discord", "compuglobal", "yarl<1.2"],
     "HIDDEN" : false
 }
