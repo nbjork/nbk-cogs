@@ -1,0 +1,10 @@
+{
+    "AUTHOR" : "Tony Montana",
+    "INSTALL_MSG" : "Simpsons COG installed",
+    "NAME" : "Simpsons",
+    "SHORT" : "Post Simpsons GIFs",
+    "DESCRIPTION" : "Read the short desciption, fool",
+    "TAGS" : ["Simpsons", "gif"],
+    "REQUIREMENTS" : ["discord"],
+    "HIDDEN" : false
+}
