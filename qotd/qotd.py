@@ -15,6 +15,7 @@ class Qotd:
     async def qotd(self):
         qotd = wikiquote.quote_of_the_day()
         await self.bot.say(qotd[0])
+        await self.bot.say("- " & qotd[1])
 
 
 def setup(bot):
