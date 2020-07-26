@@ -1,4 +1,4 @@
-from .mycog import Mycog
+from .mycog import Ghead
 
 def setup(bot):
-    bot.add_cog(Mycog())
+    bot.add_cog(Ghead())
